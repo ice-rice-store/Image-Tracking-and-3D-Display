@@ -47,3 +47,16 @@ Unity3D Vuforia—_AR文物》
     }
    }
 
+3.将原版文件的中文名称修改为纯英文名称
+
+优化原因：
+
+Unity导出apk安装包时不允许目标路径上存在中文，否则将报错，无法导出
+
+修改：
+
+Unity3D Vuforia《AR文物》（第一版）项目源文件 -> Unity3D Vuforia_AR
+apk安装包 -> apk
+工程文件-> construction
+识别图 -> identifiedGraph
+
