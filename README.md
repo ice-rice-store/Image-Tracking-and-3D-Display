@@ -5,7 +5,7 @@ Unity3D Vuforia《AR文物》（第一版）项目源文件
 Unity3D Vuforia—_AR文物》
 优化：
 1.调整模型旋转速度
-修改前：
+//修改前：
 public class Rotate : MonoBehaviour
 {
     // 速度
@@ -14,7 +14,7 @@ public class Rotate : MonoBehaviour
     ......
 }
 
-修改后：
+//修改后：
 public class Rotate : MonoBehaviour
 {
     // 速度
@@ -25,7 +25,8 @@ public class Rotate : MonoBehaviour
 2.添加滚动旋转功能（绕y轴旋转）
 原本模型只有绕z轴旋转和缩放的功能，现在添加绕y轴旋转的功能，方便用户全方位观察
 添加代码：
-{
+//{
+
     // 处理双指触摸，判断两个手指是否朝同一个方向滑动
     Vector2 touch0Delta = Input.GetTouch(0).deltaPosition;
     Vector2 touch1Delta = Input.GetTouch(1).deltaPosition;
@@ -37,5 +38,5 @@ public class Rotate : MonoBehaviour
         float deltaY = (touch0Delta.y + touch1Delta.y) * 0.1f; // 使用0.1倍的速度
         transform.Rotate(Vector3.right * deltaY);
     }
-}
+   }
 
