@@ -5,24 +5,25 @@ Unity3D Vuforia《AR文物》（第一版）项目源文件
 Unity3D Vuforia—_AR文物》
 优化：
 1.调整模型旋转速度
-
-//修改前：
-public class Rotate : MonoBehaviour
-{
+修改前：
+//{
+    public class Rotate : MonoBehaviour
+    {
     // 速度
     float xSpeed = 200f;//发现旋转速度过快不好控制
     float ySpeed = 2000f;
     ......
-}
-
-//修改后：
-public class Rotate : MonoBehaviour
-{
+    }
+   }
+修改后：
+//{
+    public class Rotate : MonoBehaviour
+    {
     // 速度
     float xSpeed = 20f; // 修改为0.1倍
     float ySpeed = 200f;
-}
-
+    }
+   }
 2.添加滚动旋转功能（绕y轴旋转）
 原本模型只有绕z轴旋转和缩放的功能，现在添加绕y轴旋转的功能，方便用户全方位观察
 添加代码：
