@@ -7,6 +7,7 @@ Unity3D Vuforia—_AR文物》
 1.调整模型旋转速度
 修改前：
 //{
+
     public class Rotate : MonoBehaviour
     {
     // 速度
@@ -15,8 +16,10 @@ Unity3D Vuforia—_AR文物》
     ......
     }
    }
+   
 修改后：
 //{
+
     public class Rotate : MonoBehaviour
     {
     // 速度
