@@ -2,7 +2,7 @@
 Unity3D Vuforia《AR文物》（第一版）项目源文件
 
 ## 11.18 第二次上传
-Unity3D Vuforia—_AR文物》
+Unity3D Vuforia_AR
 
 ### 优化：
 
@@ -61,7 +61,7 @@ Unity3D Vuforia—_AR文物》
     - 识别图 → `identifiedGraph`
   
 ## 11.20 第三次上传
-Unity3D Vuforia—_AR_2
+Unity3D Vuforia_AR_2
 ### 优化：
 
 1. **更换识别图**
