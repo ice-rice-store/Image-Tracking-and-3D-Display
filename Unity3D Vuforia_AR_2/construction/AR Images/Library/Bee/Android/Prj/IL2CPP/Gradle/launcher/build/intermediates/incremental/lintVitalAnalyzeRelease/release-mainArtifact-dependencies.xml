@@ -1,0 +1,23 @@
+<dependencies>
+  <compile
+      roots="D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release">
+    <dependency
+        name="D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release,__local_aars__:D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar,com.google.ar:core:1.22.0@aar,:VuforiaEngine:@aar">
+    <dependency
+        name="D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+        simpleName="__local_aars__:D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"/>
+    <dependency
+        name="com.google.ar:core:1.22.0@aar"
+        simpleName="com.google.ar:core"/>
+    <dependency
+        name=":VuforiaEngine:@aar"
+        simpleName=":VuforiaEngine"/>
+  </package>
+</dependencies>

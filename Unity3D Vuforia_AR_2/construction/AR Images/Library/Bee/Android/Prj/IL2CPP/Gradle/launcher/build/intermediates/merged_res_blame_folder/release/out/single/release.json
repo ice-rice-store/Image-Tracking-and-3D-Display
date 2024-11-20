@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-ldpi_app_icon.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-ldpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "com.ARCompany.ARRelics.launcher-merged_res-7:/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "com.ARCompany.ARRelics.launcher-main-8:/mipmap-mdpi/app_icon_round.png"
+    }
+]

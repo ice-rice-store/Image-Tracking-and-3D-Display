@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AR_2\\AR_2\\construction\\AR Images\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|d:\\ar_2\\ar_2\\construction\\ar images\\assets\\c#scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\AR_phototype\\phototype_construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\QuitTheScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\ResetTheModelPosition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResetTheModelPosition.cs",
+              "DocumentMoniker": "D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\ResetTheModelPosition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\ResetTheModelPosition.cs",
+              "ToolTip": "D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\ResetTheModelPosition.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\ResetTheModelPosition.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:27:17.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuitTheScene.cs",
+              "DocumentMoniker": "D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\QuitTheScene.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\QuitTheScene.cs",
+              "ToolTip": "D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\QuitTheScene.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\QuitTheScene.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:27:17.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "ToolTip": "D:\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Unity3D Vuforia_AR\\Unity3D Vuforia_AR\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:25:23.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "D:\\AR_phototype\\phototype_construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AR_phototype\\phototype_construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "ToolTip": "D:\\AR_phototype\\phototype_construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AR_phototype\\phototype_construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T13:00:41.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "D:\\AR_2\\AR_2\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\Rotate.cs",
+              "ToolTip": "D:\\AR_2\\AR_2\\construction\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\Rotate.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwDAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:54:50.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+com.ARCompany.ARRelics.launcher-jetified-core-1.22.0-0 C:\Users\严\.gradle\caches\transforms-3\7997e0501e794508602604c217bba7cd\transformed\jetified-core-1.22.0\res
+com.ARCompany.ARRelics.launcher-jetified-VuforiaEngine-1 C:\Users\严\.gradle\caches\transforms-3\e3fd3c4bec666bda9621eeb62fb012b6\transformed\jetified-VuforiaEngine\res
+com.ARCompany.ARRelics.launcher-pngs-2 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\pngs\release
+com.ARCompany.ARRelics.launcher-resValues-3 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\resValues\release
+com.ARCompany.ARRelics.launcher-rs-4 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\generated\res\rs\release
+com.ARCompany.ARRelics.launcher-mergeReleaseResources-5 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ARCompany.ARRelics.launcher-mergeReleaseResources-6 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ARCompany.ARRelics.launcher-merged_res-7 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\build\intermediates\merged_res\release
+com.ARCompany.ARRelics.launcher-main-8 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\res
+com.ARCompany.ARRelics.launcher-release-9 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\release\res
+com.ARCompany.ARRelics.launcher-packaged_res-10 D:\AR_2\AR_2\construction\AR Images\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\packaged_res\release

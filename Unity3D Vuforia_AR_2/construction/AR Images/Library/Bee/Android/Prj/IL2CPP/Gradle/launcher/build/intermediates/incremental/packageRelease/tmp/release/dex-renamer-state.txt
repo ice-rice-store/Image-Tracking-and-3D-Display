@@ -1,0 +1,4 @@
+#Mon Nov 18 21:46:06 CST 2024
+base.0=D\:\\AR_2\\AR_2\\construction\\AR Images\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
