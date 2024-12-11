@@ -1,0 +1,3 @@
+1、请先将
+D:\Unity3D Vuforia_AR\Unity3D Vuforia_AR_Final\AR Images\Assets\Models\Target20
+文件夹下的MC.7z解压到所在文件夹

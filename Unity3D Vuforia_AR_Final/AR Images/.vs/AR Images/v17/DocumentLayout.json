@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|d:\\biao\\allunityprojects\\ataobaokehu\\ar images\\assets\\c#scripts\\mydefaultobservereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\mydefaultobservereventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\assets\\c#scripts\\clickthemodelaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\clickthemodelaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\assets\\c#scripts\\btnjieshao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\btnjieshao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\assets\\c#scripts\\playtheparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\playtheparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\assets\\c#scripts\\clickthemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\clickthemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\assets\\c#scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\assets\\c#scripts\\resetthemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38319257-CD6D-1103-1900-92E519ECD3E9}|Assembly-CSharp.csproj|solutionrelative:assets\\c#scripts\\resetthemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BtnJieShao.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\BtnJieShao.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\BtnJieShao.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\BtnJieShao.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\BtnJieShao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:33:44.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClickTheModel.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\ClickTheModel.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\ClickTheModel.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\ClickTheModel.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\ClickTheModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:22:10.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\Rotate.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\Rotate.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\Rotate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABIwCIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T11:48:57.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayTheParticle.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\PlayTheParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\PlayTheParticle.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\PlayTheParticle.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\PlayTheParticle.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAhwDUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:59:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetTheModel.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\ResetTheModel.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\ResetTheModel.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\ResetTheModel.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\ResetTheModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:42:47.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDefaultObserverEventHandler.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\MyDefaultObserverEventHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\MyDefaultObserverEventHandler.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\MyDefaultObserverEventHandler.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\MyDefaultObserverEventHandler.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAWwFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:59:34.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClickTheModelAction.cs",
+              "DocumentMoniker": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\ClickTheModelAction.cs",
+              "RelativeDocumentMoniker": "Assets\\C#Scripts\\ClickTheModelAction.cs",
+              "ToolTip": "D:\\biao\\AllUnityProjects\\ATaoBaoKeHu\\AR Images\\Assets\\C#Scripts\\ClickTheModelAction.cs",
+              "RelativeToolTip": "Assets\\C#Scripts\\ClickTheModelAction.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwHcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:59:11.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
